@@ -5,7 +5,7 @@ This project demonstrates a simple Node.js and MongoDB application using Docker 
 ---
 
 ## 📁 Project Structure
-
+```bash
 docker-compose-node-mongo/
 ├── backend/
 │ ├── Dockerfile # Node.js app container
@@ -16,6 +16,7 @@ docker-compose-node-mongo/
 │ └── workflows/
 │ └── ci.yml # GitHub Actions workflow file
 ├── README.md # You're here
+```
 
 ---
 
